@@ -1,0 +1,7 @@
+{
+    "concepts":["parallelism"],
+    "lang":"f#",
+    "author":"cartermp",
+    "title":"CPU Parallel Showcase",
+    "description":"Shows various ways to perform CPU-bound tasks in parallel."
+}
